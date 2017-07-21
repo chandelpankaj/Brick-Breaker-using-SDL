@@ -1,0 +1,65 @@
+# depslib dependency file v1.0
+1484381660 source:c:\users\windows\documents\sdlproject\project four\main.cpp
+	<iostream>
+	"game.h"
+
+1488692557 c:\users\windows\documents\sdlproject\project four\game.h
+	<SDL.h>
+	<string>
+	"textureM.h"
+	"soundM.h"
+	"paddle.h"
+	<stdio.h>
+	"fontManager.h"
+	<iostream>
+	"defines.h"
+
+1491109972 source:c:\users\windows\documents\sdlproject\project four\game.cpp
+	"game.h"
+
+1484046901 c:\users\windows\documents\sdlproject\project four\texturem.h
+	<iostream>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	<map>
+	"defines.h"
+
+1483953232 source:c:\users\windows\documents\sdlproject\project four\texturem.cpp
+	"textureM.h"
+
+1488916724 c:\users\windows\documents\sdlproject\project four\paddle.h
+	<iostream>
+	<SDL.h>
+	"extras.h"
+	"defines.h"
+	<stdio.h>
+
+1488916631 source:c:\users\windows\documents\sdlproject\project four\paddle.cpp
+	"paddle.h"
+	"extras.h"
+	<time.h>
+
+1482936815 c:\users\windows\documents\sdlproject\project four\soundm.h
+	<SDL_mixer.h>
+	<iostream>
+	<map>
+
+1483858159 source:c:\users\windows\documents\sdlproject\project four\soundm.cpp
+	"soundM.h"
+
+1488691020 c:\users\windows\documents\sdlproject\project four\extras.h
+	<cmath>
+	<SDL.h>
+	<iostream>
+	<stdio.h>
+	"defines.h"
+
+1488691020 source:c:\users\windows\documents\sdlproject\project four\extras.cpp
+	"extras.h"
+
+1483804383 c:\users\windows\documents\sdlproject\project four\fontmanager.h
+	<SDL.h>
+	<SDL_ttf.h>
+
+1486273391 c:\users\windows\documents\sdlproject\project four\defines.h
+
