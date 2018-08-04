@@ -5,18 +5,18 @@ This game features 14 different types of powers, to increase ball size, multiple
 
 On the home page, you can turn on/off the background music, resume/start the game.
 
-![screenshot]('Brick Breaker/Screenshots/Screenshot1.png')
+![screenshot](Brick%20Breaker/Screenshots/Screenshot1.png)
 
 On the top left corner is the score, on the top right corner is the lives you have. If you lose all the lives, game will end.
 
-![screenshot]('Brick Breaker/Screenshots/Screenshot2.png')
+![screenshot](Brick%20Breaker/Screenshots/Screenshot2.png)
 
 On collecting power, the ball/paddle's behaviour may change, like fireball can go through bricks, fireball won't be reflected by the normal bricks.
 
-![screenshot]('Brick Breaker/Screenshots/Screenshot7.png')
+![screenshot](Brick%20Breaker/Screenshots/Screenshot7.png)
 
 
-![screenshot]('Brick Breaker/Screenshots/Screenshot6.png')
+![screenshot](Brick%20Breaker/Screenshots/Screenshot6.png)
 
 
-![screenshot]('Brick Breaker/Screenshots/Screenshot4.png')
+![screenshot](Brick%20Breaker/Screenshots/Screenshot4.png)
