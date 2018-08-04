@@ -1,5 +1,5 @@
 # Brick Breaker
-This game will remind you of the classic arcade games of your past. Your objective is to break all the colored bricks on each level. Move the paddle side to side using the mouse or arrow keys and use space to fire the laser when you have the power.
+This game will remind you of the classic arcade games of your past. Your objective is to break all the colored bricks on each level. To break a brick you must hit it with the ball. Some bricks may take more than one hit to break. Use the paddle to avoid the ball from falling to the bottom of the screen. The angle at which the ball bounces off the paddle depends on the point at which the ball hit the paddle. Move the paddle side to side using the mouse and use space to fire the laser when you have the power.
 
 This game features 14 different types of powers, to increase ball size, multiple balls, fire ball, sticky paddle, big paddle, small paddle, fast ball etc. Some powers will make it easy for you to clear the level while some will make it harder for you.
 
